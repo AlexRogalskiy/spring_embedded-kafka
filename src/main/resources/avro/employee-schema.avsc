@@ -1,0 +1,18 @@
+{
+	"type": "record",
+	"name": "Employee",
+	"namespace": "com.github.classes.avro",
+	"fields": [
+	{
+		"name": "id",
+		"type": "int"
+	},
+	{
+		"name": "firstName",
+		"type": "string"
+	},
+	{
+		"name": "lastName",
+		"type": "string"
+	}]
+}
